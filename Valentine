@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Valentine's Day</title>
+    <style>
+        body {
+            background-color: #ffcccb;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        img {
+            width: 300px;
+            border-radius: 15px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #d63384;
+        }
+        .heart {
+            font-size: 50px;
+            color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Valentine's Day!</h1>
+        <p class="heart">❤️❤️❤️</p>
+        <img src="IMG_20250131_022703_652.jpg" alt="Valentine's Day Image">
+        <p class="heart">❤️❤️❤️</p>
+    </div>
+</body>
+</html>
